@@ -231,5 +231,8 @@ The dashboard provides several views:
 * **Summary View:** Overall sentiment distribution, total reviews analyzed.
 * **Aspect View:** Select an aspect (e.g., "food") to see its specific sentiment breakdown (e.g., 70% Positive, 20% Negative, 10% Neutral for "food").
 * **Review Explorer:** Filter reviews by aspect, sentiment, star rating, and view the review text along with the extracted aspect sentiments.
+Example Screenshots:
 
+Main Dashboard View: 
+Aspect Sentiment Detail: 
 
