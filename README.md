@@ -233,6 +233,12 @@ The dashboard provides several views:
 * **Review Explorer:** Filter reviews by aspect, sentiment, star rating, and view the review text along with the extracted aspect sentiments.
 Example Screenshots:
 
-Main Dashboard View: 
-Aspect Sentiment Detail: 
+Main Dashboard View: <div align="center">
+  <img src="Screenshot 2025-05-12 182605.png" alt="Main Dashboard View" width="800"/>
+  <p><em>Overall sentiment distribution and key metrics</em></p>
+</div>
+Aspect Sentiment Detail: <div align="center">
+  <img src="Screenshot 2025-05-12 215432.png" alt="Aspect Sentiment Analysis" width="800"/>
+  <p><em>Detailed sentiment breakdown by specific aspects (food, service, etc.)</em></p>
+</div>
 
